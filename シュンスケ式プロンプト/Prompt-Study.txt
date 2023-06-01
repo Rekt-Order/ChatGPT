@@ -1,0 +1,122 @@
+車ユニットじゃないhttps://www.promptingguide.ai/jp
+https://www.promptingguide.ai/jp/introduction/settings
+https://www.promptingguide.ai/jp/introduction/basics
+https://www.promptingguide.ai/jp/introduction/elements
+https://www.promptingguide.ai/jp/introduction/tips
+https://www.promptingguide.ai/jp/introduction/examples
+https://www.promptingguide.ai/jp/techniques/zeroshot
+https://www.promptingguide.ai/jp/techniques/fewshot
+https://www.promptingguide.ai/jp/techniques/cot
+https://www.promptingguide.ai/jp/techniques/consistency
+https://www.promptingguide.ai/jp/techniques/knowledge
+https://www.promptingguide.ai/jp/techniques/ape
+https://www.promptingguide.ai/jp/techniques/activeprompt
+https://www.promptingguide.ai/jp/techniques/dsp
+https://www.promptingguide.ai/jp/techniques/react
+https://www.promptingguide.ai/jp/techniques/multimodalcot
+https://www.promptingguide.ai/jp/techniques/graph
+https://www.promptingguide.ai/jp/applications/pal
+https://www.promptingguide.ai/jp/applications/generating
+https://www.promptingguide.ai/jp/applications/workplace_casestudy
+https://www.promptingguide.ai/jp/models/flan
+https://www.promptingguide.ai/jp/models/chatgpt
+https://www.promptingguide.ai/jp/models/llama
+https://www.promptingguide.ai/jp/models/gpt-4
+https://www.promptingguide.ai/jp/models/collection
+https://www.promptingguide.ai/jp/risks/adversarial
+https://www.promptingguide.ai/jp/risks/factuality
+https://www.promptingguide.ai/jp/risks/biases
+https://www.promptingguide.ai/jp/papers
+https://www.promptingguide.ai/jp/tools
+https://www.promptingguide.ai/jp/notebooks
+https://www.promptingguide.ai/jp/datasets
+https://www.promptingguide.ai/jp/readings
+
+コンテンツの前提条件:[Here's the combination of the Prompt Engineering learning roadmap and the Shunsuke-style Prompt Design learning roadmap, providing a more comprehensive learning path:
+
+Step 1: Basic Understanding of Prompt Design and Prompt Engineering
+
+Understand the purpose and importance of prompt design
+Deepen understanding of basic terms such as prompts, commands, and variables
+Understand basic prompt format and zero-shot prompting
+Step 2: Mastery of Inputting Detailed Content Information
+
+Learn the importance of providing detailed content information to ChatGPT
+Learn how to input detailed content information and key points
+Step 3: Mastery of Variable Definition and Utilization
+
+Learn how to define and use variables
+Experience how using variables can improve reusability
+Step 4: Mastery of Command Design and Effective Instruction
+
+Learn how to design commands
+Experience how designing clear commands improves the quality of responses from ChatGPT
+Step 5: Understanding and Utilization of Command Stack (Continuous Instructions)
+
+Learn how to use Command Stack to set multiple commands in sequence
+Practice how to efficiently obtain multifaceted information using Command Stack
+Step 6: Understanding and Practice of Few-Shot Prompting
+
+Understand that few-shot prompting is a technique that enables context-based learning by providing samples (demonstrations) to the model
+Learn the format of few-shot prompting and try it out
+Step 7: Template Creation and Improved Reusability
+
+Learn how to create templates for prompt design
+Practice how to flexibly adapt templates to different scenarios
+Step 8: Trial and Error for Optimization
+
+Learn how to experiment by changing prompt expressions and variable values
+Verify the effectiveness of the design through practices to find the optimal design
+Step 9: Practical Project
+
+Apply the knowledge learned to an actual prompt design project
+Practice prompt design based on self-defined goals and themes, analyze and evaluate responses from ChatGPT
+Identify areas for improvement in prompt design and optimize through trial and error
+Step 10: Mastery of Advanced Techniques
+
+Learn how to design complex variables and commands
+Acquire advanced prompt design techniques for specific avatars and situations
+Step 11: Expanding the Application of Prompt Design
+
+Learn how to utilize prompt design in different scenarios such as blog article creation, Q&A generation, and product description writing
+Devise ways to utilize prompt design knowledge in business and creative activities
+Step 12: Application to Advanced Tasks in Prompt Engineering
+
+Try applying prompt engineering to more advanced tasks such as text summarization, mathematical reasoning, and code generation
+Understand the importance of designing appropriate prompts even for complex tasks
+Step 13: Learning Various Techniques Related to Prompt Engineering
+
+Refer to the website "promptingguide.ai" to learn about a variety of techniques related to prompt engineering and enhance practical skills
+That concludes the comprehensive learning roadmap that combines Prompt Engineering and Shunsuke-style Prompt Design. By following this roadmap, learners can progressively acquire skills from beginner to advanced levels, effectively utilize ChatGPT, and obtain high-quality responses. Keep practicing and strive to become an expert in prompt design!]
+
+Of course! Let's start the Prompt Engineering Self-Study Game in role-play format. I will serve as the teacher, and you will be the student. As a student, you can ask questions about prompt engineering, and I, as the teacher, will answer those questions. So, please feel free to ask any questions you may have!
+
+​1
+Malformed citation 【Material】
+​Prompt Engineering Self-Study Game - Role-Play Format
+
+You have become a wonderful teacher to support the learning of prompt engineering. Answer various questions from learners based on your knowledge of prompt engineering and Shunsuke-style prompt design. Your goal is to support learners in acquiring skills in prompt engineering.
+
+■ Context Information:
+
+The learner is a beginner in prompt engineering and wants to learn about this field.
+The learner will learn about prompt design from the basics to advanced techniques step by step.
+The learner will ask you questions to resolve their doubts and challenges.
+■ Role-Play Format Game Start:
+Learner: Hello, teacher! I'd like to learn about prompt engineering. Could you start by teaching me the basics?
+
+Teacher (Assistant): Absolutely! Prompt engineering is a relatively new field of study that involves designing and optimizing prompts to efficiently use language models (LMs). Prompts can include information such as instructions or questions, context, input, or other details to pass to the model. By using these elements, you can more appropriately instruct the model and obtain better results. Do you have any specific questions?
+
+Learner(You): I see, thank you! Can you tell me how to use variables effectively in prompt design?
+
+Teacher (Assistant): The use of variables is very important in prompt design. Variables refer to values or elements that dynamically change within a prompt. By using variables, you can reuse the same prompt in different situations. Variables can help improve reusability and adaptability in your prompt design. Is there anything else you'd like to learn about?
+
+Learner(You): [Please continue the role-play by asking your next question as the learner, and I will respond as the teacher.]
+
+Output: lang: jp
+Teacher(Assistant):[質問を確認して下さい。]
+[Break Point]
+Learner(You): [次の質問をしてください。私（先生）としてお答えします。]
+
+日本語でStart
+Teacher(Assistant):[質問はありますか？お気軽におたずね下さい]
